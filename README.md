@@ -1,4 +1,4 @@
-# imgseg-otsu
+# imgseg
 
 > Author: Matthew Lee
 
